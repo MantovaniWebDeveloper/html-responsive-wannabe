@@ -100,8 +100,6 @@ img{
   }
   #steps .row > .right {
     width: 100%;
-    margin-bottom: 30px;
-    margin-top: 30px;
     text-align: justify;
  }
  #steps .row > .right img {
@@ -112,9 +110,6 @@ img{
     text-align: center;
  }
  #why .row img {
-   background-color:#428bca;
-   border-radius:50%;
-   padding:30px;
    height: 40px;
  }
  #why .row  {
